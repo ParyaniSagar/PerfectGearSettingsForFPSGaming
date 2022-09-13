@@ -1,1 +1,1 @@
-# Perfect Sensitivity for FPS Gaming
+# Perfect Game settings for FPS Gaming
