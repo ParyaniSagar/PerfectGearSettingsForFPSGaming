@@ -16,7 +16,7 @@ For the Data Visualizations, Please check out the *3_Visualizations* folder or c
 
 ## Conclusion
 
-### Gear
+### 1. Gear
 
 | Most used Gear by Professional Players | Item                                     | Price |
 |----------------------------------------|------------------------------------------|-------|
@@ -26,7 +26,7 @@ For the Data Visualizations, Please check out the *3_Visualizations* folder or c
 | Mouse                                  | **Logitech G Pro X Superlight**          | NA    |
 | Mouse Pad                              | **Logitech G640**                        | NA    |
 
-### Best In-game settings (Based on Professional Players usage stats)
+### 2. Best In-game settings (Based on Professional Players usage stats)
 
 | In-game setting  | Value      | 
 |------------------|------------|
