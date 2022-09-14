@@ -1,7 +1,7 @@
 # Best Valorant Settings and Gear
 The people at Riot games are responsible for one of the most popular PC games, VALORANT! A first person shooter built from the ground up to appease competitive gamers.
 
-![valorant-logo](3_Visualization\valorant-logo.png)
+![valorant-logo](3_Visualization/valorant-logo.png)
 
 In this analysis I have gathered the settings and gear of the top VALORANT players so that we  can get an idea of how the pros are playing. And draw a **conclusion** for the best in-game settings and Gear to be used to Master the game of VALORANT!
 
